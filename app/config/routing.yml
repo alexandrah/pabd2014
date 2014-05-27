@@ -1,0 +1,4 @@
+hategan_ale:
+    resource: "@HateganAleBundle/Resources/config/routing.yml"
+    prefix:   /
+
